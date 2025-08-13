@@ -1,0 +1,1001 @@
+customer_id,order_date,total_amount,product_category,payment_type,delivery_location,days_since_last_purchase,repeat_purchase_next_30_days
+58,2023-01-26,37206.75,Groceries,Credit Card,Lalitpur,26,0
+217,2023-02-02,1974.96,Groceries,Credit Card,Biratnagar,154,0
+288,2023-07-23,35942.97,Home Appliances,Digital Wallet,Lalitpur,114,1
+4,2023-06-13,35057.9,Clothing,Bank Transfer,Lalitpur,55,1
+53,2023-04-05,19306.4,Clothing,Bank Transfer,Biratnagar,67,0
+236,2024-07-03,6678.9,Stationery,Cash,Biratnagar,75,1
+296,2023-07-16,35376.31,Electronics,Credit Card,Bhaktapur,20,0
+52,2024-01-25,14259.69,Clothing,Credit Card,Bhaktapur,90,0
+137,2023-03-15,30651.98,Groceries,Credit Card,Lalitpur,118,1
+139,2024-07-24,11370.95,Clothing,Cash,Lalitpur,8,1
+206,2023-10-02,3776.34,Home Appliances,Bank Transfer,Lalitpur,167,1
+203,2024-04-14,7572.14,Groceries,Credit Card,Butwal,143,1
+300,2024-03-14,44942.23,Stationery,Bank Transfer,Lalitpur,35,1
+47,2023-02-18,43124.59,Groceries,Credit Card,Butwal,108,0
+198,2024-01-26,29996.48,Stationery,Bank Transfer,Biratnagar,2,0
+275,2023-10-01,38545.64,Clothing,Cash,Bhaktapur,111,0
+233,2023-01-04,47713.89,Clothing,Credit Card,Biratnagar,27,1
+260,2023-07-23,8065.54,Groceries,Cash,Biratnagar,82,1
+10,2023-04-25,46490.38,Clothing,Credit Card,Kathmandu,61,0
+44,2024-05-12,40893.15,Home Appliances,Credit Card,Lalitpur,168,1
+282,2023-06-19,13620.3,Home Appliances,Digital Wallet,Lalitpur,138,0
+160,2024-02-13,49759.89,Clothing,Digital Wallet,Biratnagar,115,0
+127,2023-08-19,3669.28,Electronics,Credit Card,Biratnagar,56,0
+37,2023-03-02,11832.62,Electronics,Bank Transfer,Kathmandu,131,0
+143,2024-05-12,11104.72,Groceries,Digital Wallet,Lalitpur,121,1
+98,2023-04-07,5298.08,Stationery,Bank Transfer,Pokhara,105,1
+28,2023-04-11,3500.33,Clothing,Cash,Lalitpur,49,0
+275,2024-04-04,7439.02,Groceries,Bank Transfer,Pokhara,63,0
+227,2024-07-17,5346.48,Home Appliances,Cash,Kathmandu,60,0
+209,2024-05-12,24327.24,Stationery,Cash,Lalitpur,97,0
+200,2023-09-29,46362.64,Stationery,Bank Transfer,Pokhara,178,1
+80,2023-07-14,15187.04,Electronics,Cash,Butwal,80,0
+26,2024-05-03,25391.09,Home Appliances,Credit Card,Kathmandu,130,0
+96,2023-03-12,29954.24,Groceries,Digital Wallet,Kathmandu,145,0
+297,2023-02-10,31159.38,Stationery,Bank Transfer,Bhaktapur,52,1
+123,2023-09-29,20091.4,Clothing,Digital Wallet,Bhaktapur,18,0
+235,2024-07-30,49806.77,Electronics,Credit Card,Biratnagar,67,0
+179,2023-03-12,44023.88,Clothing,Bank Transfer,Lalitpur,112,1
+271,2023-01-09,33559.23,Home Appliances,Bank Transfer,Butwal,26,0
+136,2023-04-29,44540.78,Home Appliances,Credit Card,Bhaktapur,72,0
+176,2023-07-28,34531.11,Clothing,Digital Wallet,Bhaktapur,13,0
+217,2023-10-11,2682.29,Clothing,Credit Card,Butwal,67,0
+227,2024-07-18,35430.54,Home Appliances,Cash,Kathmandu,19,0
+280,2023-02-06,41812.45,Home Appliances,Credit Card,Pokhara,32,0
+158,2024-01-09,44999.58,Electronics,Bank Transfer,Lalitpur,174,0
+53,2023-12-29,39115.75,Stationery,Credit Card,Lalitpur,41,0
+212,2023-01-26,9378.35,Clothing,Digital Wallet,Butwal,63,1
+82,2023-04-21,19435.82,Electronics,Digital Wallet,Lalitpur,51,1
+180,2023-11-09,41116.55,Groceries,Credit Card,Kathmandu,168,0
+205,2023-12-03,14290.85,Electronics,Bank Transfer,Bhaktapur,164,1
+275,2023-12-06,46992.24,Electronics,Bank Transfer,Lalitpur,148,1
+20,2023-04-22,30030.28,Clothing,Bank Transfer,Pokhara,155,0
+198,2023-07-14,13108.76,Stationery,Cash,Biratnagar,137,0
+187,2024-03-17,3963.7,Clothing,Bank Transfer,Butwal,31,1
+260,2023-11-13,33511.2,Clothing,Digital Wallet,Butwal,75,0
+99,2024-03-06,33414.01,Stationery,Credit Card,Biratnagar,145,1
+208,2024-07-15,41769.4,Clothing,Bank Transfer,Lalitpur,110,1
+239,2024-03-28,22386.91,Groceries,Digital Wallet,Butwal,43,0
+146,2024-06-11,33360.76,Home Appliances,Bank Transfer,Kathmandu,60,1
+116,2023-07-23,7794.02,Electronics,Credit Card,Pokhara,156,0
+234,2024-02-29,44363.78,Home Appliances,Credit Card,Butwal,178,1
+254,2024-02-14,12577.23,Electronics,Cash,Pokhara,56,0
+266,2024-04-20,2985.81,Groceries,Cash,Pokhara,34,1
+272,2024-07-26,29974.89,Stationery,Digital Wallet,Biratnagar,114,0
+244,2024-04-05,13329.98,Groceries,Bank Transfer,Biratnagar,124,0
+141,2024-03-26,4335.43,Clothing,Credit Card,Bhaktapur,85,1
+277,2023-03-24,7349.52,Groceries,Digital Wallet,Butwal,39,0
+33,2024-02-29,20676.17,Home Appliances,Digital Wallet,Pokhara,15,0
+216,2024-02-03,45289.5,Home Appliances,Cash,Biratnagar,97,1
+4,2023-12-27,15281.33,Stationery,Digital Wallet,Biratnagar,139,0
+250,2023-08-13,14010.3,Stationery,Cash,Pokhara,86,1
+85,2024-04-23,46017.31,Home Appliances,Cash,Pokhara,151,0
+43,2024-03-14,7217.12,Stationery,Credit Card,Kathmandu,66,1
+168,2023-08-05,23007.62,Clothing,Digital Wallet,Bhaktapur,107,1
+42,2024-04-26,1459.47,Home Appliances,Cash,Bhaktapur,57,0
+21,2023-02-01,47505.78,Groceries,Cash,Biratnagar,39,0
+65,2024-04-29,33638.21,Home Appliances,Credit Card,Pokhara,179,1
+189,2023-06-21,30491.69,Electronics,Credit Card,Bhaktapur,27,0
+160,2024-01-20,20134.39,Groceries,Cash,Biratnagar,176,0
+53,2023-11-05,42589.52,Home Appliances,Cash,Biratnagar,10,1
+273,2024-03-14,33245.31,Electronics,Bank Transfer,Kathmandu,107,1
+55,2024-03-19,48058.98,Stationery,Credit Card,Pokhara,45,1
+276,2024-05-10,23511.25,Home Appliances,Bank Transfer,Bhaktapur,62,0
+143,2024-04-06,12571.24,Stationery,Digital Wallet,Bhaktapur,7,1
+167,2023-07-06,24633.72,Clothing,Bank Transfer,Bhaktapur,71,1
+285,2023-01-11,26073.05,Groceries,Cash,Lalitpur,104,1
+285,2023-09-04,34685.16,Stationery,Digital Wallet,Kathmandu,23,1
+114,2024-02-19,34743.46,Clothing,Bank Transfer,Pokhara,141,1
+218,2024-07-17,16874.17,Stationery,Bank Transfer,Bhaktapur,64,0
+62,2023-07-17,16119.62,Home Appliances,Credit Card,Lalitpur,55,1
+142,2024-06-21,30041.14,Electronics,Credit Card,Bhaktapur,58,1
+92,2023-11-06,1200.34,Home Appliances,Credit Card,Bhaktapur,11,0
+284,2023-10-27,35022.16,Groceries,Digital Wallet,Kathmandu,3,1
+241,2024-05-05,22303.21,Groceries,Cash,Bhaktapur,122,0
+34,2024-02-15,24841.45,Home Appliances,Cash,Lalitpur,38,1
+44,2023-09-12,6363.35,Stationery,Credit Card,Biratnagar,97,1
+227,2023-11-01,43078.25,Stationery,Bank Transfer,Biratnagar,158,0
+51,2023-08-01,31462.99,Clothing,Cash,Lalitpur,61,0
+283,2023-03-18,8248.36,Stationery,Digital Wallet,Butwal,152,1
+150,2023-02-03,11958.07,Clothing,Digital Wallet,Kathmandu,175,0
+136,2023-07-22,21544.38,Home Appliances,Credit Card,Butwal,38,1
+73,2023-03-15,3452.08,Clothing,Bank Transfer,Pokhara,31,1
+156,2024-02-17,47162.47,Home Appliances,Digital Wallet,Pokhara,20,0
+222,2023-11-27,30383.83,Electronics,Cash,Lalitpur,172,0
+138,2023-02-11,38273.9,Groceries,Digital Wallet,Biratnagar,166,1
+143,2023-07-05,49848.8,Stationery,Digital Wallet,Kathmandu,120,1
+210,2023-12-08,16392.38,Electronics,Credit Card,Bhaktapur,105,1
+148,2024-02-15,40771.52,Home Appliances,Cash,Pokhara,22,1
+130,2023-11-28,6238.12,Stationery,Cash,Butwal,138,1
+212,2023-02-25,9785.34,Clothing,Digital Wallet,Butwal,113,0
+105,2023-10-01,27686.37,Clothing,Digital Wallet,Butwal,124,0
+15,2023-09-03,35634.25,Clothing,Cash,Biratnagar,104,0
+116,2023-04-27,23341.67,Electronics,Credit Card,Pokhara,74,1
+213,2024-05-09,49022.11,Groceries,Digital Wallet,Biratnagar,37,1
+98,2024-06-04,37441.48,Groceries,Cash,Bhaktapur,106,1
+260,2023-10-01,41117.2,Clothing,Bank Transfer,Biratnagar,148,1
+77,2024-04-02,27159.74,Clothing,Bank Transfer,Biratnagar,139,1
+234,2023-11-26,43545.28,Groceries,Digital Wallet,Lalitpur,105,0
+163,2024-04-29,35408.78,Stationery,Digital Wallet,Butwal,166,0
+254,2023-02-07,6749.19,Home Appliances,Bank Transfer,Kathmandu,112,0
+270,2024-04-12,1259.71,Groceries,Digital Wallet,Butwal,39,0
+241,2023-09-29,17258.78,Stationery,Cash,Bhaktapur,172,1
+163,2024-05-14,43682.96,Electronics,Cash,Lalitpur,161,1
+117,2023-04-03,21981.59,Electronics,Cash,Pokhara,42,1
+15,2023-02-17,16556.55,Electronics,Bank Transfer,Bhaktapur,95,1
+75,2023-09-08,26792.73,Home Appliances,Credit Card,Lalitpur,44,0
+196,2023-09-04,25134.53,Home Appliances,Credit Card,Lalitpur,118,1
+236,2023-09-19,33508.62,Stationery,Bank Transfer,Butwal,139,0
+38,2024-03-28,47289.16,Home Appliances,Bank Transfer,Butwal,108,1
+234,2023-11-06,10361.24,Stationery,Digital Wallet,Kathmandu,60,1
+293,2024-01-03,28953.19,Clothing,Cash,Butwal,101,1
+5,2024-08-02,43320.84,Electronics,Digital Wallet,Bhaktapur,58,1
+113,2023-07-14,31234.11,Groceries,Cash,Butwal,165,0
+159,2024-03-27,2151.54,Clothing,Credit Card,Kathmandu,75,1
+213,2023-06-29,10439.34,Home Appliances,Bank Transfer,Biratnagar,128,1
+85,2023-09-21,45745.42,Stationery,Bank Transfer,Butwal,86,0
+240,2023-03-19,7467.47,Groceries,Digital Wallet,Biratnagar,93,0
+203,2023-01-15,13590.7,Electronics,Digital Wallet,Bhaktapur,172,1
+300,2024-01-26,41209.66,Clothing,Cash,Butwal,59,1
+13,2024-07-28,16736.31,Home Appliances,Credit Card,Butwal,16,1
+155,2024-02-23,6275.46,Electronics,Cash,Bhaktapur,126,0
+50,2023-08-29,44419.34,Groceries,Digital Wallet,Pokhara,94,1
+80,2024-02-29,32918.63,Stationery,Digital Wallet,Bhaktapur,8,1
+112,2024-03-30,22512.45,Groceries,Bank Transfer,Kathmandu,175,1
+279,2024-01-03,3497.23,Clothing,Credit Card,Kathmandu,116,0
+109,2023-01-22,3003.64,Clothing,Credit Card,Lalitpur,144,0
+36,2024-07-21,10754.29,Groceries,Credit Card,Bhaktapur,37,0
+142,2023-05-29,49382.6,Home Appliances,Bank Transfer,Lalitpur,28,0
+68,2023-01-16,18232.99,Groceries,Bank Transfer,Kathmandu,44,1
+27,2023-05-10,37215.04,Home Appliances,Cash,Butwal,16,1
+230,2024-01-06,25905.28,Electronics,Digital Wallet,Biratnagar,56,0
+267,2023-11-05,23173.1,Electronics,Cash,Pokhara,102,1
+56,2024-05-17,35763.87,Stationery,Cash,Kathmandu,82,0
+34,2023-05-10,14113.29,Home Appliances,Bank Transfer,Pokhara,152,1
+233,2024-06-01,30468.63,Electronics,Cash,Butwal,166,0
+221,2024-04-07,44460.51,Stationery,Bank Transfer,Pokhara,102,1
+49,2023-11-17,21624.82,Clothing,Bank Transfer,Lalitpur,175,1
+35,2023-04-04,41672.71,Electronics,Digital Wallet,Kathmandu,95,0
+285,2023-03-03,29530.02,Home Appliances,Bank Transfer,Butwal,31,1
+182,2024-03-09,43470.56,Electronics,Bank Transfer,Biratnagar,79,1
+54,2024-06-03,11030.57,Stationery,Credit Card,Kathmandu,89,1
+59,2023-10-13,28917.95,Stationery,Cash,Biratnagar,168,1
+15,2023-07-04,14026.88,Clothing,Bank Transfer,Bhaktapur,1,0
+74,2024-08-02,33038.56,Electronics,Credit Card,Butwal,162,0
+47,2024-06-27,11149.08,Stationery,Digital Wallet,Bhaktapur,40,1
+160,2023-11-29,38953.36,Home Appliances,Cash,Kathmandu,39,0
+26,2023-03-25,13969.09,Stationery,Digital Wallet,Biratnagar,113,1
+140,2023-08-09,37869.69,Electronics,Bank Transfer,Pokhara,28,1
+250,2024-06-23,33523.06,Electronics,Credit Card,Pokhara,153,0
+4,2023-07-29,15420.26,Groceries,Credit Card,Bhaktapur,74,1
+62,2023-01-08,25120.57,Stationery,Credit Card,Lalitpur,97,0
+257,2024-07-26,41751.03,Clothing,Cash,Pokhara,10,1
+10,2024-04-15,46097.54,Clothing,Digital Wallet,Biratnagar,103,1
+149,2023-04-28,20549.1,Clothing,Credit Card,Biratnagar,117,1
+46,2024-03-23,42301.98,Groceries,Digital Wallet,Biratnagar,102,0
+203,2023-11-14,37417.34,Groceries,Bank Transfer,Lalitpur,19,0
+272,2024-06-06,10098.23,Clothing,Bank Transfer,Butwal,165,0
+121,2023-04-16,7748.99,Groceries,Credit Card,Biratnagar,39,0
+91,2024-05-20,23465.68,Home Appliances,Digital Wallet,Butwal,144,1
+162,2023-06-04,22268.26,Stationery,Digital Wallet,Butwal,77,1
+29,2023-12-27,25613.18,Clothing,Digital Wallet,Pokhara,9,0
+189,2023-10-21,4298.18,Electronics,Digital Wallet,Pokhara,148,0
+231,2023-07-12,16415.57,Stationery,Credit Card,Kathmandu,115,0
+176,2023-03-28,25475.18,Groceries,Cash,Lalitpur,112,1
+269,2024-06-19,30685.37,Clothing,Bank Transfer,Bhaktapur,99,1
+174,2023-02-23,39566.73,Clothing,Cash,Bhaktapur,24,1
+146,2023-09-16,36324.82,Home Appliances,Credit Card,Bhaktapur,20,0
+180,2023-11-14,48400.98,Stationery,Credit Card,Biratnagar,21,1
+287,2024-01-21,32352.92,Clothing,Credit Card,Butwal,179,0
+217,2024-06-04,18410.49,Clothing,Bank Transfer,Lalitpur,54,1
+249,2023-07-16,11713.88,Groceries,Credit Card,Kathmandu,75,0
+260,2024-07-06,41838.43,Home Appliances,Cash,Butwal,86,0
+193,2023-06-07,8531.24,Home Appliances,Credit Card,Butwal,112,0
+211,2024-01-09,33979.96,Groceries,Digital Wallet,Biratnagar,72,1
+120,2024-06-30,12338.84,Stationery,Credit Card,Bhaktapur,173,1
+237,2023-10-16,39017.14,Home Appliances,Digital Wallet,Lalitpur,51,0
+129,2023-02-23,32238.36,Clothing,Cash,Butwal,132,0
+146,2023-03-27,38274.28,Clothing,Digital Wallet,Biratnagar,37,1
+47,2023-08-16,40926.81,Clothing,Cash,Pokhara,13,1
+258,2024-01-18,12171.01,Electronics,Bank Transfer,Lalitpur,7,1
+51,2023-12-10,39673.34,Groceries,Cash,Bhaktapur,120,0
+241,2024-04-04,30959.74,Electronics,Cash,Bhaktapur,55,0
+281,2024-06-24,21451.11,Clothing,Credit Card,Bhaktapur,31,0
+123,2024-03-05,32128.11,Home Appliances,Digital Wallet,Kathmandu,28,1
+275,2023-01-17,31781.77,Home Appliances,Credit Card,Butwal,36,1
+220,2023-01-02,30933.07,Groceries,Digital Wallet,Lalitpur,170,0
+269,2024-01-05,3850.13,Home Appliances,Cash,Pokhara,120,0
+199,2024-01-18,13055.69,Electronics,Bank Transfer,Kathmandu,88,0
+54,2023-12-07,7103.77,Clothing,Bank Transfer,Butwal,44,1
+246,2023-07-06,40669.14,Electronics,Digital Wallet,Kathmandu,75,0
+23,2023-07-24,44346.62,Clothing,Bank Transfer,Biratnagar,101,1
+130,2023-02-07,37787.9,Groceries,Bank Transfer,Bhaktapur,12,1
+140,2023-05-08,40067.45,Stationery,Digital Wallet,Butwal,112,1
+174,2023-07-11,25062.06,Stationery,Bank Transfer,Biratnagar,68,0
+218,2023-03-22,21815.05,Groceries,Bank Transfer,Bhaktapur,26,0
+168,2023-10-30,15671.54,Home Appliances,Digital Wallet,Lalitpur,176,1
+180,2024-04-02,2596.58,Clothing,Digital Wallet,Bhaktapur,163,0
+39,2024-02-20,18483.9,Groceries,Cash,Lalitpur,155,1
+18,2023-05-10,3828.05,Clothing,Bank Transfer,Pokhara,145,0
+79,2024-04-05,47466.76,Clothing,Digital Wallet,Kathmandu,146,0
+272,2024-01-11,20202.69,Clothing,Credit Card,Kathmandu,6,0
+256,2024-06-14,19655.88,Home Appliances,Cash,Bhaktapur,66,1
+110,2023-10-20,34852.04,Stationery,Credit Card,Kathmandu,34,0
+232,2023-06-26,44984.61,Stationery,Cash,Butwal,81,1
+34,2024-07-17,27337.48,Clothing,Credit Card,Butwal,179,0
+186,2024-06-04,11599.96,Groceries,Credit Card,Lalitpur,126,0
+185,2024-07-21,28827.73,Stationery,Credit Card,Biratnagar,22,0
+159,2024-02-12,49979.95,Stationery,Digital Wallet,Pokhara,147,0
+65,2023-11-21,32295.76,Stationery,Digital Wallet,Butwal,132,1
+66,2024-07-18,32169.8,Groceries,Credit Card,Pokhara,128,0
+64,2024-06-14,8074.27,Groceries,Credit Card,Bhaktapur,57,1
+266,2023-10-18,42373.72,Clothing,Credit Card,Butwal,141,1
+65,2023-11-07,30914.2,Electronics,Credit Card,Biratnagar,148,0
+88,2023-12-12,42205.24,Home Appliances,Cash,Kathmandu,20,0
+296,2023-09-29,32730.93,Home Appliances,Digital Wallet,Biratnagar,163,0
+255,2024-07-12,14838.75,Clothing,Digital Wallet,Lalitpur,175,1
+153,2024-04-09,4112.16,Electronics,Credit Card,Pokhara,106,1
+238,2023-07-28,17339.53,Groceries,Bank Transfer,Butwal,81,1
+205,2023-05-14,38152.92,Home Appliances,Cash,Bhaktapur,61,1
+63,2023-10-01,22755.0,Groceries,Cash,Kathmandu,74,1
+215,2023-09-12,48152.95,Groceries,Bank Transfer,Biratnagar,80,0
+82,2024-05-25,49800.49,Stationery,Digital Wallet,Bhaktapur,127,0
+47,2024-02-07,25519.5,Groceries,Credit Card,Biratnagar,90,0
+26,2023-10-16,24997.26,Stationery,Bank Transfer,Biratnagar,2,0
+221,2023-05-18,44181.56,Clothing,Digital Wallet,Bhaktapur,11,1
+27,2024-07-29,10135.44,Home Appliances,Bank Transfer,Kathmandu,98,1
+282,2023-10-14,41352.91,Home Appliances,Cash,Lalitpur,24,1
+192,2023-12-14,28112.68,Clothing,Credit Card,Lalitpur,154,1
+257,2023-02-11,2742.52,Groceries,Bank Transfer,Pokhara,132,1
+77,2024-06-11,7419.16,Home Appliances,Bank Transfer,Lalitpur,100,1
+173,2024-06-03,41500.32,Home Appliances,Digital Wallet,Butwal,144,1
+244,2023-01-18,18733.71,Electronics,Digital Wallet,Biratnagar,78,0
+243,2023-09-29,48370.0,Home Appliances,Credit Card,Butwal,13,1
+88,2024-06-20,31636.75,Home Appliances,Digital Wallet,Lalitpur,174,0
+17,2023-04-23,9943.82,Stationery,Bank Transfer,Pokhara,38,1
+105,2024-02-25,25340.07,Home Appliances,Digital Wallet,Butwal,15,0
+266,2023-08-01,28263.9,Stationery,Digital Wallet,Bhaktapur,44,1
+273,2023-12-17,27540.52,Clothing,Digital Wallet,Lalitpur,63,1
+286,2023-11-02,11630.92,Clothing,Bank Transfer,Butwal,53,1
+163,2024-05-06,17765.76,Clothing,Bank Transfer,Kathmandu,146,1
+203,2023-12-20,47753.14,Groceries,Bank Transfer,Kathmandu,73,0
+178,2024-03-28,32970.62,Stationery,Credit Card,Lalitpur,137,1
+288,2023-10-06,7295.01,Home Appliances,Credit Card,Lalitpur,12,0
+120,2023-02-23,5459.8,Clothing,Digital Wallet,Kathmandu,174,0
+3,2024-07-17,48906.58,Groceries,Digital Wallet,Butwal,121,1
+103,2023-10-22,16397.8,Electronics,Cash,Butwal,146,0
+274,2023-02-08,45704.87,Groceries,Digital Wallet,Lalitpur,9,1
+254,2023-07-10,46862.13,Clothing,Cash,Kathmandu,76,0
+172,2023-10-19,22990.28,Home Appliances,Digital Wallet,Lalitpur,129,1
+140,2023-07-17,40536.29,Clothing,Credit Card,Butwal,117,1
+96,2023-01-15,36962.59,Clothing,Credit Card,Lalitpur,156,1
+219,2024-06-11,16732.37,Stationery,Cash,Lalitpur,35,1
+166,2023-09-12,838.09,Stationery,Credit Card,Pokhara,68,1
+155,2023-01-12,13446.88,Clothing,Credit Card,Kathmandu,170,0
+239,2023-11-11,8405.98,Home Appliances,Bank Transfer,Butwal,30,1
+189,2023-08-15,11346.87,Groceries,Digital Wallet,Lalitpur,116,1
+213,2024-07-16,45683.45,Home Appliances,Credit Card,Lalitpur,174,0
+270,2024-04-02,26644.57,Clothing,Cash,Biratnagar,28,0
+281,2024-06-01,10506.76,Home Appliances,Credit Card,Lalitpur,83,1
+60,2023-07-30,35987.44,Stationery,Cash,Biratnagar,114,0
+233,2023-05-16,25905.77,Stationery,Cash,Biratnagar,118,1
+12,2024-02-10,13095.63,Electronics,Credit Card,Biratnagar,18,0
+217,2023-12-19,35169.05,Home Appliances,Cash,Kathmandu,120,0
+147,2024-02-23,9409.08,Groceries,Digital Wallet,Bhaktapur,97,1
+194,2024-01-20,4472.37,Home Appliances,Credit Card,Butwal,89,0
+92,2024-07-04,19956.4,Groceries,Credit Card,Kathmandu,5,1
+238,2024-07-11,21494.34,Stationery,Credit Card,Lalitpur,117,1
+80,2023-10-10,9829.78,Electronics,Cash,Butwal,107,0
+124,2023-07-31,3830.9,Home Appliances,Cash,Pokhara,153,0
+126,2023-02-15,20412.13,Groceries,Credit Card,Kathmandu,35,1
+120,2023-11-23,29085.0,Clothing,Credit Card,Bhaktapur,36,0
+212,2023-11-04,14120.12,Home Appliances,Credit Card,Butwal,173,1
+285,2024-05-22,2820.76,Clothing,Digital Wallet,Biratnagar,81,1
+210,2023-06-02,15344.48,Groceries,Digital Wallet,Lalitpur,57,1
+74,2024-04-19,45779.69,Home Appliances,Digital Wallet,Pokhara,142,0
+199,2023-09-06,13122.28,Clothing,Cash,Pokhara,94,0
+275,2023-07-15,3051.06,Stationery,Cash,Kathmandu,48,0
+246,2023-08-02,43538.96,Clothing,Bank Transfer,Kathmandu,54,0
+61,2024-05-05,45764.84,Home Appliances,Credit Card,Pokhara,61,1
+145,2024-01-25,23579.4,Clothing,Bank Transfer,Bhaktapur,92,1
+239,2023-04-11,40239.42,Stationery,Bank Transfer,Lalitpur,94,1
+212,2023-02-16,28344.97,Groceries,Credit Card,Kathmandu,66,1
+152,2023-06-06,10211.49,Groceries,Digital Wallet,Biratnagar,62,1
+282,2023-12-12,13237.67,Stationery,Digital Wallet,Pokhara,43,1
+87,2023-05-24,36155.52,Stationery,Credit Card,Biratnagar,164,0
+269,2023-02-04,42033.89,Electronics,Cash,Kathmandu,105,0
+119,2023-03-11,35504.89,Electronics,Credit Card,Biratnagar,116,1
+31,2024-05-09,33134.57,Electronics,Cash,Biratnagar,141,1
+7,2023-01-18,26706.17,Clothing,Bank Transfer,Kathmandu,128,1
+92,2023-04-20,45943.42,Home Appliances,Credit Card,Lalitpur,49,1
+182,2023-10-01,39849.35,Electronics,Bank Transfer,Pokhara,117,0
+116,2023-11-04,34360.06,Electronics,Cash,Kathmandu,103,1
+194,2024-07-19,24062.25,Electronics,Credit Card,Kathmandu,127,1
+170,2024-08-02,48877.8,Electronics,Cash,Lalitpur,54,1
+139,2023-02-17,46245.88,Clothing,Cash,Lalitpur,80,0
+107,2023-05-28,37736.6,Stationery,Cash,Bhaktapur,41,0
+291,2024-02-03,34013.23,Home Appliances,Bank Transfer,Pokhara,35,0
+257,2023-12-21,3157.97,Stationery,Credit Card,Kathmandu,87,1
+168,2023-01-31,31889.09,Stationery,Digital Wallet,Lalitpur,91,1
+222,2023-07-10,34144.9,Stationery,Cash,Biratnagar,75,0
+38,2023-03-26,13764.62,Stationery,Credit Card,Butwal,99,1
+185,2023-04-20,5030.26,Clothing,Digital Wallet,Bhaktapur,69,0
+68,2023-03-31,9775.89,Stationery,Digital Wallet,Kathmandu,6,0
+182,2024-07-21,5106.68,Home Appliances,Bank Transfer,Pokhara,3,1
+212,2024-02-02,39068.87,Home Appliances,Credit Card,Biratnagar,133,0
+195,2023-06-23,7372.58,Clothing,Bank Transfer,Pokhara,37,0
+86,2024-03-21,14160.11,Clothing,Digital Wallet,Kathmandu,92,1
+127,2024-05-22,29893.42,Groceries,Digital Wallet,Kathmandu,34,1
+4,2024-02-10,16944.75,Home Appliances,Digital Wallet,Bhaktapur,112,1
+221,2023-05-20,15371.55,Home Appliances,Credit Card,Pokhara,80,0
+204,2023-11-23,14926.68,Stationery,Credit Card,Bhaktapur,96,1
+202,2024-01-09,6137.45,Home Appliances,Credit Card,Biratnagar,139,0
+282,2023-01-28,47673.73,Stationery,Credit Card,Pokhara,74,0
+210,2024-05-26,7389.37,Clothing,Credit Card,Bhaktapur,168,0
+217,2024-01-22,4161.27,Home Appliances,Digital Wallet,Biratnagar,102,1
+279,2023-02-07,39640.69,Clothing,Cash,Kathmandu,63,1
+86,2023-02-15,28379.4,Stationery,Bank Transfer,Pokhara,27,0
+51,2023-09-22,11489.05,Home Appliances,Credit Card,Pokhara,95,1
+238,2024-05-27,7961.87,Electronics,Digital Wallet,Kathmandu,75,1
+44,2023-04-29,41650.23,Groceries,Bank Transfer,Bhaktapur,87,1
+106,2024-06-17,24404.84,Stationery,Cash,Pokhara,178,1
+164,2023-03-10,15363.07,Electronics,Cash,Bhaktapur,165,0
+85,2023-09-07,26041.7,Home Appliances,Credit Card,Bhaktapur,143,1
+237,2023-08-26,39988.91,Groceries,Credit Card,Butwal,168,1
+203,2023-01-30,37000.72,Groceries,Digital Wallet,Biratnagar,109,1
+3,2023-08-08,10686.33,Electronics,Cash,Biratnagar,47,1
+167,2023-07-21,23148.75,Clothing,Digital Wallet,Biratnagar,163,1
+199,2024-02-06,29556.73,Clothing,Bank Transfer,Pokhara,158,0
+153,2023-03-28,33769.45,Clothing,Cash,Lalitpur,78,0
+94,2024-01-18,34825.11,Home Appliances,Digital Wallet,Pokhara,152,0
+295,2024-01-28,21440.42,Stationery,Credit Card,Biratnagar,42,1
+148,2023-05-24,9761.38,Stationery,Cash,Bhaktapur,2,1
+70,2023-07-19,40853.19,Home Appliances,Digital Wallet,Pokhara,175,1
+213,2024-03-30,24690.63,Electronics,Cash,Lalitpur,74,0
+141,2023-08-19,27111.63,Groceries,Digital Wallet,Biratnagar,126,0
+294,2023-04-27,13760.5,Home Appliances,Bank Transfer,Biratnagar,10,1
+280,2023-08-12,49493.9,Electronics,Credit Card,Bhaktapur,8,1
+135,2023-12-23,43178.88,Electronics,Digital Wallet,Kathmandu,60,0
+180,2024-03-14,8716.09,Groceries,Credit Card,Lalitpur,15,1
+273,2023-10-15,30044.46,Groceries,Bank Transfer,Butwal,74,1
+294,2023-10-01,47643.67,Home Appliances,Cash,Lalitpur,105,0
+142,2023-05-10,35220.61,Groceries,Credit Card,Lalitpur,82,0
+202,2024-05-16,7537.5,Clothing,Digital Wallet,Pokhara,115,0
+48,2024-02-17,26022.87,Clothing,Bank Transfer,Pokhara,124,1
+298,2023-01-03,43510.93,Electronics,Digital Wallet,Butwal,170,1
+33,2024-07-01,20186.94,Stationery,Credit Card,Pokhara,68,1
+146,2023-12-12,27591.87,Groceries,Digital Wallet,Bhaktapur,174,0
+24,2023-04-12,31495.89,Stationery,Cash,Kathmandu,40,1
+234,2023-01-01,49595.99,Stationery,Credit Card,Butwal,33,1
+82,2023-10-08,5120.33,Clothing,Bank Transfer,Kathmandu,95,0
+27,2024-02-10,31467.41,Groceries,Digital Wallet,Butwal,23,0
+1,2023-08-07,24101.93,Groceries,Credit Card,Biratnagar,174,1
+5,2023-01-09,34932.06,Electronics,Digital Wallet,Butwal,33,1
+37,2023-08-23,19461.96,Electronics,Cash,Bhaktapur,94,1
+71,2024-01-27,38786.29,Groceries,Credit Card,Kathmandu,135,0
+85,2024-03-26,17883.79,Groceries,Credit Card,Pokhara,157,1
+112,2023-03-30,44881.35,Groceries,Cash,Biratnagar,98,1
+220,2023-11-19,39658.29,Groceries,Bank Transfer,Butwal,21,0
+284,2023-10-19,39059.0,Electronics,Bank Transfer,Lalitpur,132,0
+201,2023-10-30,32485.4,Groceries,Digital Wallet,Pokhara,28,0
+256,2023-03-14,26650.18,Electronics,Bank Transfer,Bhaktapur,33,1
+292,2024-03-06,18587.92,Groceries,Digital Wallet,Kathmandu,4,0
+8,2023-09-26,11179.28,Electronics,Digital Wallet,Biratnagar,73,1
+217,2024-02-16,4580.18,Home Appliances,Credit Card,Bhaktapur,21,1
+41,2024-06-07,46085.78,Groceries,Bank Transfer,Pokhara,150,0
+159,2024-03-23,36632.94,Groceries,Cash,Lalitpur,22,1
+60,2024-04-09,30808.69,Electronics,Bank Transfer,Butwal,168,0
+62,2023-01-13,35541.08,Electronics,Credit Card,Pokhara,88,1
+86,2024-01-16,6783.07,Clothing,Cash,Kathmandu,85,1
+140,2024-06-20,3661.66,Home Appliances,Cash,Pokhara,116,1
+29,2024-05-26,43038.31,Groceries,Bank Transfer,Lalitpur,65,0
+294,2023-04-29,11806.02,Home Appliances,Cash,Kathmandu,3,0
+24,2024-04-28,18516.84,Groceries,Credit Card,Kathmandu,141,1
+115,2023-11-26,12789.03,Clothing,Bank Transfer,Kathmandu,146,1
+62,2024-05-29,33829.62,Electronics,Credit Card,Lalitpur,132,0
+206,2023-03-12,43911.07,Clothing,Bank Transfer,Bhaktapur,22,1
+5,2024-01-13,10433.22,Home Appliances,Bank Transfer,Butwal,159,0
+238,2024-01-13,29788.7,Stationery,Credit Card,Butwal,139,0
+78,2023-01-07,46653.68,Electronics,Credit Card,Biratnagar,88,0
+172,2023-01-02,38066.99,Stationery,Bank Transfer,Kathmandu,52,0
+215,2024-05-18,48078.66,Groceries,Bank Transfer,Kathmandu,11,0
+267,2024-02-27,35191.92,Clothing,Digital Wallet,Butwal,21,0
+259,2023-05-17,32042.18,Stationery,Cash,Biratnagar,145,0
+223,2023-05-14,12220.2,Clothing,Bank Transfer,Pokhara,179,1
+163,2024-04-08,13961.82,Electronics,Credit Card,Lalitpur,149,0
+80,2023-04-19,8636.56,Stationery,Bank Transfer,Pokhara,30,1
+107,2024-04-07,15761.23,Clothing,Cash,Kathmandu,40,1
+21,2023-08-09,41878.28,Clothing,Credit Card,Kathmandu,63,1
+203,2024-06-09,2923.06,Clothing,Bank Transfer,Lalitpur,7,1
+232,2024-07-23,37529.88,Groceries,Cash,Pokhara,26,0
+63,2023-01-13,3552.62,Groceries,Credit Card,Lalitpur,102,1
+44,2023-09-23,45912.71,Electronics,Cash,Kathmandu,50,1
+66,2023-04-05,45301.36,Clothing,Cash,Kathmandu,118,0
+87,2024-03-19,41173.43,Stationery,Digital Wallet,Kathmandu,97,1
+89,2023-12-29,11128.45,Groceries,Bank Transfer,Bhaktapur,114,0
+18,2023-09-09,32540.28,Stationery,Digital Wallet,Biratnagar,122,0
+45,2023-10-14,19459.26,Stationery,Credit Card,Butwal,134,0
+279,2023-01-20,49475.48,Clothing,Digital Wallet,Biratnagar,124,1
+290,2024-05-29,16419.42,Clothing,Credit Card,Kathmandu,81,0
+16,2023-10-15,3400.27,Stationery,Bank Transfer,Biratnagar,59,0
+52,2023-09-11,33014.79,Clothing,Cash,Lalitpur,147,1
+182,2023-06-27,9216.97,Home Appliances,Bank Transfer,Butwal,178,1
+15,2023-12-27,47404.16,Home Appliances,Credit Card,Biratnagar,48,1
+278,2023-11-13,9190.06,Electronics,Cash,Kathmandu,59,0
+11,2024-06-23,24160.45,Clothing,Credit Card,Lalitpur,87,0
+166,2023-03-02,1584.69,Home Appliances,Credit Card,Kathmandu,134,1
+38,2024-01-18,35374.63,Stationery,Cash,Bhaktapur,77,1
+70,2023-06-11,36751.43,Stationery,Digital Wallet,Butwal,81,0
+288,2024-01-01,11550.24,Home Appliances,Credit Card,Pokhara,78,1
+66,2023-07-01,36577.13,Home Appliances,Digital Wallet,Biratnagar,8,0
+163,2023-08-15,32162.52,Electronics,Digital Wallet,Lalitpur,84,0
+122,2023-12-22,49127.79,Groceries,Cash,Butwal,171,1
+229,2023-01-12,13628.02,Groceries,Cash,Bhaktapur,65,0
+1,2023-02-19,19603.89,Stationery,Credit Card,Pokhara,126,1
+180,2024-07-13,19079.7,Stationery,Credit Card,Lalitpur,115,0
+18,2023-10-29,1493.86,Clothing,Cash,Kathmandu,87,0
+193,2023-06-14,36733.26,Home Appliances,Cash,Bhaktapur,152,1
+16,2024-03-17,47150.89,Groceries,Digital Wallet,Lalitpur,13,0
+170,2023-07-30,48732.72,Stationery,Bank Transfer,Butwal,72,1
+122,2023-04-09,2956.95,Home Appliances,Digital Wallet,Lalitpur,13,1
+2,2024-03-13,4837.6,Home Appliances,Digital Wallet,Lalitpur,24,0
+106,2023-06-24,32090.44,Electronics,Digital Wallet,Kathmandu,78,1
+242,2024-05-15,44796.44,Clothing,Cash,Butwal,139,1
+95,2024-01-15,44331.89,Clothing,Credit Card,Pokhara,11,1
+226,2024-04-21,13538.34,Clothing,Cash,Lalitpur,178,0
+44,2023-12-19,40504.92,Stationery,Credit Card,Biratnagar,15,1
+268,2024-03-04,48298.57,Stationery,Credit Card,Pokhara,76,0
+203,2023-02-05,25354.02,Home Appliances,Credit Card,Kathmandu,114,0
+86,2023-08-05,40518.81,Groceries,Cash,Pokhara,20,1
+104,2023-06-01,41788.35,Clothing,Bank Transfer,Butwal,17,0
+199,2024-07-23,20169.07,Clothing,Bank Transfer,Biratnagar,117,0
+268,2024-03-05,6069.68,Groceries,Credit Card,Biratnagar,150,0
+55,2024-07-30,39087.46,Clothing,Bank Transfer,Pokhara,67,1
+249,2024-04-29,2354.55,Clothing,Digital Wallet,Lalitpur,158,1
+20,2024-02-10,44533.92,Clothing,Credit Card,Kathmandu,121,1
+191,2023-01-21,17224.37,Clothing,Bank Transfer,Bhaktapur,125,0
+117,2023-05-18,15373.78,Stationery,Bank Transfer,Bhaktapur,106,0
+97,2024-03-28,10963.83,Stationery,Digital Wallet,Biratnagar,95,0
+264,2023-06-12,3748.04,Home Appliances,Digital Wallet,Lalitpur,134,0
+89,2023-07-17,43821.44,Groceries,Cash,Lalitpur,8,1
+26,2024-01-05,35379.38,Clothing,Bank Transfer,Pokhara,129,1
+64,2023-02-01,12475.94,Stationery,Digital Wallet,Lalitpur,121,1
+177,2023-06-17,41963.86,Clothing,Cash,Bhaktapur,7,1
+26,2023-06-16,42764.16,Groceries,Credit Card,Butwal,57,0
+138,2024-02-24,25907.42,Electronics,Digital Wallet,Lalitpur,165,0
+5,2023-08-18,12993.33,Clothing,Bank Transfer,Pokhara,96,1
+236,2023-09-16,11301.35,Clothing,Digital Wallet,Biratnagar,26,0
+262,2024-01-19,28292.13,Home Appliances,Bank Transfer,Bhaktapur,175,0
+247,2023-03-07,17146.04,Clothing,Bank Transfer,Bhaktapur,66,1
+97,2023-06-03,26106.03,Groceries,Cash,Biratnagar,103,1
+72,2023-01-27,32942.33,Clothing,Bank Transfer,Pokhara,103,1
+19,2023-07-14,17486.77,Groceries,Digital Wallet,Butwal,91,1
+88,2024-07-25,9466.22,Electronics,Digital Wallet,Lalitpur,66,0
+172,2023-04-02,11501.55,Groceries,Bank Transfer,Pokhara,84,1
+134,2023-10-29,23456.15,Electronics,Digital Wallet,Kathmandu,162,0
+242,2023-07-19,25273.63,Stationery,Bank Transfer,Pokhara,13,0
+71,2023-07-25,17462.16,Home Appliances,Digital Wallet,Lalitpur,80,0
+42,2024-05-14,16965.16,Groceries,Bank Transfer,Butwal,14,0
+232,2023-10-08,10864.43,Groceries,Credit Card,Pokhara,22,0
+223,2024-03-15,20467.98,Stationery,Digital Wallet,Kathmandu,9,0
+192,2023-01-15,44654.32,Home Appliances,Credit Card,Kathmandu,173,0
+128,2023-08-20,34829.47,Clothing,Bank Transfer,Lalitpur,26,1
+258,2023-11-10,8767.5,Electronics,Bank Transfer,Bhaktapur,116,1
+223,2023-05-18,17465.28,Stationery,Bank Transfer,Lalitpur,42,1
+10,2023-08-22,11603.91,Groceries,Credit Card,Butwal,5,0
+64,2024-01-11,35699.95,Electronics,Digital Wallet,Butwal,65,0
+25,2023-04-21,32851.6,Electronics,Cash,Butwal,29,1
+228,2024-01-25,6617.96,Clothing,Digital Wallet,Butwal,39,0
+5,2023-11-05,21333.14,Electronics,Bank Transfer,Biratnagar,155,0
+215,2023-04-18,25823.45,Home Appliances,Cash,Bhaktapur,29,0
+255,2023-07-23,30645.59,Clothing,Credit Card,Bhaktapur,180,1
+152,2023-06-14,2450.58,Stationery,Credit Card,Butwal,123,1
+121,2023-01-03,1131.1,Electronics,Cash,Biratnagar,171,1
+77,2023-04-03,39086.55,Electronics,Cash,Bhaktapur,164,0
+234,2023-10-31,13574.19,Electronics,Cash,Lalitpur,10,1
+185,2023-11-17,21586.76,Electronics,Cash,Kathmandu,2,0
+88,2023-12-03,18197.61,Stationery,Bank Transfer,Butwal,23,1
+176,2023-07-07,6134.68,Stationery,Digital Wallet,Bhaktapur,98,1
+216,2023-06-20,6096.3,Electronics,Credit Card,Kathmandu,106,1
+292,2024-03-24,9472.4,Stationery,Bank Transfer,Biratnagar,7,0
+248,2024-05-14,6090.41,Stationery,Digital Wallet,Kathmandu,16,1
+161,2023-01-13,35376.12,Home Appliances,Credit Card,Butwal,86,0
+222,2023-09-12,24355.52,Stationery,Credit Card,Biratnagar,156,0
+6,2023-06-10,25525.59,Stationery,Digital Wallet,Lalitpur,19,1
+165,2023-09-04,16879.29,Clothing,Cash,Biratnagar,57,1
+207,2023-08-29,4402.11,Stationery,Digital Wallet,Kathmandu,127,1
+162,2023-05-02,49043.2,Electronics,Cash,Pokhara,105,0
+286,2024-07-16,508.4,Electronics,Bank Transfer,Biratnagar,143,0
+234,2023-12-16,18485.45,Electronics,Credit Card,Pokhara,84,1
+187,2024-04-08,6144.16,Groceries,Cash,Bhaktapur,90,1
+281,2024-06-18,19007.57,Electronics,Cash,Lalitpur,126,0
+210,2023-04-20,13087.32,Groceries,Credit Card,Kathmandu,100,0
+235,2023-07-15,35981.0,Electronics,Digital Wallet,Kathmandu,162,0
+231,2024-04-13,33093.61,Home Appliances,Credit Card,Pokhara,1,0
+284,2024-03-19,42021.4,Stationery,Credit Card,Butwal,148,0
+66,2023-04-17,19676.58,Home Appliances,Bank Transfer,Biratnagar,98,1
+128,2023-10-08,20194.56,Clothing,Bank Transfer,Pokhara,34,0
+212,2024-06-08,15296.2,Home Appliances,Bank Transfer,Butwal,141,0
+103,2023-08-03,31396.3,Clothing,Bank Transfer,Butwal,33,0
+258,2024-07-09,34868.44,Clothing,Cash,Bhaktapur,143,1
+299,2024-03-03,33875.05,Home Appliances,Bank Transfer,Pokhara,3,0
+13,2024-01-26,7693.67,Electronics,Credit Card,Bhaktapur,41,1
+129,2023-05-30,42049.4,Clothing,Credit Card,Biratnagar,8,1
+232,2023-04-15,30997.39,Home Appliances,Credit Card,Butwal,165,1
+122,2024-06-07,39323.21,Clothing,Cash,Pokhara,99,1
+161,2024-07-19,3163.21,Clothing,Credit Card,Biratnagar,113,0
+189,2024-07-13,37053.28,Groceries,Credit Card,Bhaktapur,114,0
+39,2023-07-11,48142.52,Home Appliances,Cash,Pokhara,10,1
+143,2024-07-23,13579.86,Groceries,Bank Transfer,Kathmandu,84,1
+80,2023-02-10,8108.32,Clothing,Cash,Butwal,157,1
+252,2024-07-17,18225.24,Clothing,Credit Card,Lalitpur,133,0
+259,2023-06-13,21088.6,Home Appliances,Digital Wallet,Kathmandu,89,0
+110,2023-12-06,16887.79,Clothing,Credit Card,Biratnagar,135,1
+288,2023-01-10,6178.74,Clothing,Digital Wallet,Lalitpur,164,0
+21,2023-11-25,19377.94,Electronics,Digital Wallet,Bhaktapur,138,1
+13,2024-06-13,41194.4,Clothing,Digital Wallet,Pokhara,11,1
+99,2023-11-25,25937.79,Electronics,Credit Card,Biratnagar,136,0
+34,2023-08-04,33681.59,Groceries,Digital Wallet,Kathmandu,52,1
+37,2023-06-07,1675.77,Clothing,Cash,Kathmandu,18,0
+92,2023-09-15,28125.17,Home Appliances,Credit Card,Bhaktapur,104,1
+231,2024-02-19,21934.74,Electronics,Digital Wallet,Butwal,30,0
+33,2023-02-16,35193.66,Electronics,Bank Transfer,Biratnagar,27,1
+155,2023-03-30,14435.11,Stationery,Digital Wallet,Pokhara,169,0
+243,2023-06-10,26906.65,Groceries,Digital Wallet,Biratnagar,75,0
+153,2024-01-18,47890.89,Electronics,Credit Card,Kathmandu,10,0
+294,2024-02-08,27089.03,Electronics,Bank Transfer,Lalitpur,88,0
+212,2024-06-08,7551.53,Groceries,Credit Card,Biratnagar,64,0
+59,2023-07-05,33713.41,Home Appliances,Cash,Biratnagar,118,0
+149,2023-03-10,12909.04,Groceries,Digital Wallet,Bhaktapur,91,0
+121,2023-04-13,14614.29,Electronics,Credit Card,Bhaktapur,124,1
+169,2023-11-10,34826.18,Groceries,Bank Transfer,Bhaktapur,109,0
+3,2023-11-17,12685.67,Groceries,Digital Wallet,Bhaktapur,92,0
+170,2024-05-06,23410.99,Clothing,Bank Transfer,Pokhara,141,0
+90,2023-03-25,42168.75,Groceries,Credit Card,Bhaktapur,160,0
+39,2023-01-20,42554.57,Electronics,Digital Wallet,Biratnagar,54,0
+283,2023-09-24,27401.73,Home Appliances,Digital Wallet,Butwal,38,1
+201,2023-08-17,44626.16,Home Appliances,Bank Transfer,Lalitpur,118,0
+204,2024-01-08,25357.28,Groceries,Credit Card,Biratnagar,35,1
+82,2023-07-03,28534.68,Home Appliances,Credit Card,Butwal,123,1
+21,2023-08-13,38192.88,Groceries,Cash,Bhaktapur,94,0
+22,2023-07-31,26135.32,Clothing,Digital Wallet,Pokhara,116,0
+21,2023-11-28,5609.64,Home Appliances,Bank Transfer,Butwal,67,0
+193,2024-01-23,18582.19,Electronics,Bank Transfer,Pokhara,57,1
+181,2023-12-20,24599.65,Stationery,Cash,Biratnagar,35,1
+85,2023-08-24,4315.87,Clothing,Credit Card,Lalitpur,47,0
+186,2023-05-02,33224.93,Stationery,Bank Transfer,Butwal,29,1
+246,2024-05-05,10929.85,Groceries,Digital Wallet,Kathmandu,62,0
+66,2023-06-14,7168.84,Home Appliances,Cash,Biratnagar,37,0
+86,2023-09-22,46161.12,Home Appliances,Digital Wallet,Biratnagar,144,0
+146,2023-03-29,11221.37,Home Appliances,Digital Wallet,Pokhara,43,0
+211,2023-05-27,39833.5,Groceries,Bank Transfer,Lalitpur,175,1
+233,2023-03-12,11875.78,Stationery,Credit Card,Kathmandu,4,0
+268,2024-05-31,34376.21,Groceries,Cash,Lalitpur,121,0
+273,2024-05-30,37742.97,Electronics,Digital Wallet,Butwal,33,0
+221,2024-06-18,21323.86,Electronics,Digital Wallet,Lalitpur,123,1
+180,2023-04-11,21561.73,Clothing,Digital Wallet,Lalitpur,21,1
+279,2024-02-23,13261.35,Electronics,Cash,Biratnagar,133,0
+267,2023-01-08,19063.98,Groceries,Bank Transfer,Pokhara,92,0
+80,2024-03-12,32753.01,Clothing,Bank Transfer,Biratnagar,108,1
+142,2024-02-11,37871.11,Stationery,Digital Wallet,Lalitpur,94,1
+130,2023-11-11,29093.73,Stationery,Credit Card,Butwal,30,0
+229,2023-06-15,5463.79,Home Appliances,Digital Wallet,Bhaktapur,140,0
+83,2024-02-03,48246.23,Electronics,Cash,Lalitpur,120,1
+46,2023-03-07,13523.05,Clothing,Cash,Biratnagar,9,1
+206,2024-06-17,14680.23,Home Appliances,Cash,Lalitpur,163,1
+225,2023-01-11,10484.51,Home Appliances,Bank Transfer,Lalitpur,8,0
+87,2023-02-06,18307.13,Electronics,Credit Card,Kathmandu,70,1
+181,2024-02-09,20569.82,Groceries,Cash,Butwal,180,0
+47,2024-07-16,14582.44,Home Appliances,Bank Transfer,Bhaktapur,70,0
+100,2024-04-10,46520.84,Home Appliances,Cash,Bhaktapur,44,1
+260,2023-04-20,28152.22,Home Appliances,Bank Transfer,Bhaktapur,29,1
+276,2023-09-14,34862.5,Stationery,Digital Wallet,Lalitpur,86,1
+236,2023-01-29,24357.52,Clothing,Cash,Pokhara,162,0
+118,2023-11-20,20915.09,Clothing,Cash,Butwal,67,0
+148,2023-04-06,20247.07,Clothing,Cash,Biratnagar,45,1
+161,2023-12-29,11319.02,Home Appliances,Bank Transfer,Lalitpur,174,0
+256,2023-07-24,12125.64,Groceries,Bank Transfer,Lalitpur,58,0
+128,2023-12-31,8221.78,Electronics,Cash,Kathmandu,173,1
+4,2024-07-08,47920.66,Stationery,Bank Transfer,Biratnagar,80,1
+295,2023-10-09,24794.86,Home Appliances,Bank Transfer,Pokhara,56,0
+28,2024-06-22,40063.86,Stationery,Cash,Biratnagar,88,1
+90,2024-04-13,48837.11,Home Appliances,Digital Wallet,Bhaktapur,176,0
+7,2023-08-04,19281.69,Electronics,Bank Transfer,Bhaktapur,156,1
+96,2024-07-15,13511.03,Clothing,Digital Wallet,Biratnagar,87,1
+95,2024-05-25,21485.17,Stationery,Bank Transfer,Bhaktapur,102,1
+231,2023-07-04,28784.78,Home Appliances,Credit Card,Kathmandu,69,0
+285,2024-03-18,42887.28,Groceries,Credit Card,Butwal,38,1
+5,2023-06-30,21365.27,Groceries,Bank Transfer,Pokhara,76,1
+288,2023-02-18,20220.89,Groceries,Cash,Lalitpur,65,1
+50,2024-04-05,37357.36,Clothing,Bank Transfer,Bhaktapur,143,1
+177,2023-01-21,20882.16,Clothing,Credit Card,Biratnagar,147,0
+146,2023-12-30,16591.97,Home Appliances,Digital Wallet,Butwal,114,0
+196,2023-10-21,23455.73,Groceries,Credit Card,Butwal,86,1
+293,2024-02-19,42520.59,Electronics,Cash,Lalitpur,87,0
+161,2023-11-21,32824.15,Clothing,Digital Wallet,Bhaktapur,113,1
+267,2024-04-06,20992.46,Groceries,Cash,Lalitpur,60,1
+41,2023-08-04,8762.07,Electronics,Cash,Kathmandu,121,0
+14,2024-02-11,26437.15,Electronics,Cash,Bhaktapur,158,0
+44,2024-02-04,15813.85,Groceries,Bank Transfer,Pokhara,160,0
+68,2024-06-23,42006.63,Electronics,Cash,Butwal,91,1
+244,2024-04-23,48761.59,Home Appliances,Bank Transfer,Biratnagar,113,0
+277,2023-07-01,29746.13,Stationery,Digital Wallet,Biratnagar,163,1
+178,2024-05-08,27213.57,Electronics,Digital Wallet,Bhaktapur,93,1
+134,2023-06-09,15526.86,Electronics,Credit Card,Bhaktapur,73,1
+274,2023-01-09,34544.61,Stationery,Digital Wallet,Bhaktapur,2,1
+150,2023-08-25,39939.99,Home Appliances,Bank Transfer,Lalitpur,105,1
+203,2023-09-13,8581.84,Stationery,Digital Wallet,Lalitpur,67,0
+217,2023-09-03,26072.2,Home Appliances,Bank Transfer,Bhaktapur,166,1
+212,2023-07-12,42747.36,Groceries,Credit Card,Bhaktapur,28,1
+232,2023-10-06,35173.39,Stationery,Credit Card,Bhaktapur,4,0
+26,2024-07-01,1595.48,Electronics,Bank Transfer,Bhaktapur,32,1
+5,2023-08-27,4964.75,Electronics,Digital Wallet,Lalitpur,87,1
+160,2024-05-25,49899.19,Stationery,Cash,Bhaktapur,20,0
+29,2023-09-30,38894.82,Electronics,Digital Wallet,Lalitpur,49,1
+196,2023-01-13,6537.1,Groceries,Digital Wallet,Pokhara,63,0
+102,2024-04-16,36898.48,Electronics,Credit Card,Pokhara,99,1
+166,2023-06-12,31643.63,Electronics,Cash,Bhaktapur,123,1
+102,2024-01-05,44432.22,Groceries,Cash,Lalitpur,162,1
+167,2023-01-16,8784.34,Clothing,Cash,Pokhara,62,0
+22,2024-05-01,34576.12,Groceries,Bank Transfer,Kathmandu,63,0
+256,2023-04-04,34454.26,Clothing,Cash,Kathmandu,91,0
+275,2023-04-20,6728.46,Groceries,Bank Transfer,Biratnagar,165,1
+225,2023-07-17,1556.97,Stationery,Bank Transfer,Butwal,34,1
+21,2024-05-11,35477.99,Home Appliances,Bank Transfer,Biratnagar,178,1
+98,2024-08-03,9738.02,Clothing,Bank Transfer,Butwal,119,1
+284,2023-06-14,3909.39,Groceries,Digital Wallet,Bhaktapur,67,1
+233,2023-01-01,38907.94,Home Appliances,Digital Wallet,Butwal,47,0
+187,2023-09-02,16374.36,Electronics,Digital Wallet,Lalitpur,134,1
+283,2023-06-07,30845.44,Clothing,Digital Wallet,Butwal,82,0
+50,2024-06-19,33115.11,Electronics,Credit Card,Lalitpur,8,0
+55,2024-05-12,9985.02,Electronics,Digital Wallet,Butwal,125,1
+26,2024-01-11,11425.78,Electronics,Cash,Lalitpur,167,1
+41,2024-04-24,40150.49,Electronics,Bank Transfer,Biratnagar,106,1
+30,2023-09-30,26686.53,Electronics,Bank Transfer,Kathmandu,55,0
+52,2023-08-25,26817.22,Groceries,Credit Card,Biratnagar,168,0
+292,2023-07-03,28141.96,Home Appliances,Digital Wallet,Butwal,27,1
+235,2024-03-13,44199.79,Groceries,Credit Card,Biratnagar,102,1
+81,2024-06-30,49922.46,Stationery,Bank Transfer,Bhaktapur,140,1
+191,2024-02-27,38327.13,Stationery,Bank Transfer,Biratnagar,61,0
+193,2024-07-17,46344.27,Clothing,Bank Transfer,Pokhara,114,1
+1,2023-02-05,49156.35,Home Appliances,Cash,Biratnagar,34,1
+4,2023-11-04,49227.52,Groceries,Bank Transfer,Kathmandu,176,1
+284,2024-06-07,28037.99,Home Appliances,Credit Card,Kathmandu,9,1
+183,2023-06-09,7351.21,Clothing,Credit Card,Lalitpur,65,1
+48,2024-02-14,28668.71,Groceries,Cash,Butwal,83,1
+89,2024-05-14,41372.41,Home Appliances,Cash,Biratnagar,164,1
+20,2024-01-26,4384.63,Electronics,Bank Transfer,Bhaktapur,111,1
+62,2023-08-21,37510.09,Home Appliances,Cash,Butwal,161,1
+28,2023-11-09,26456.98,Clothing,Credit Card,Bhaktapur,128,0
+79,2023-02-21,33844.94,Stationery,Digital Wallet,Biratnagar,147,0
+114,2024-03-18,14844.26,Stationery,Credit Card,Lalitpur,86,0
+244,2023-02-20,27633.54,Clothing,Cash,Pokhara,128,1
+67,2023-05-19,24305.66,Groceries,Digital Wallet,Pokhara,166,0
+288,2024-06-20,12689.17,Electronics,Bank Transfer,Pokhara,82,0
+58,2024-02-28,21465.26,Clothing,Credit Card,Bhaktapur,88,0
+157,2023-06-23,49388.77,Home Appliances,Digital Wallet,Biratnagar,37,1
+23,2023-08-28,10384.42,Clothing,Credit Card,Butwal,21,0
+28,2023-09-06,47472.58,Groceries,Bank Transfer,Kathmandu,87,0
+157,2024-04-05,23823.92,Clothing,Credit Card,Butwal,137,0
+105,2024-07-13,26401.66,Clothing,Digital Wallet,Biratnagar,36,0
+193,2024-06-23,2652.36,Groceries,Cash,Bhaktapur,51,1
+28,2024-04-21,32910.51,Electronics,Cash,Pokhara,169,1
+185,2023-04-21,1444.38,Stationery,Credit Card,Pokhara,130,0
+162,2024-05-11,43405.25,Home Appliances,Cash,Lalitpur,50,1
+288,2023-01-23,2467.74,Home Appliances,Bank Transfer,Bhaktapur,125,1
+81,2023-01-19,17665.61,Clothing,Bank Transfer,Butwal,77,0
+257,2023-10-10,40688.7,Clothing,Digital Wallet,Kathmandu,142,1
+116,2023-06-05,17418.41,Stationery,Credit Card,Kathmandu,97,0
+214,2023-09-04,28858.48,Stationery,Bank Transfer,Biratnagar,84,1
+278,2023-05-15,10734.49,Groceries,Credit Card,Lalitpur,79,0
+221,2023-05-29,32983.47,Home Appliances,Credit Card,Bhaktapur,17,0
+95,2023-11-22,42056.36,Groceries,Cash,Bhaktapur,105,1
+156,2024-03-29,37407.68,Clothing,Credit Card,Lalitpur,27,0
+95,2023-01-27,38241.15,Home Appliances,Bank Transfer,Biratnagar,145,0
+119,2023-08-25,34525.21,Clothing,Cash,Butwal,122,0
+258,2024-04-25,35744.95,Clothing,Credit Card,Pokhara,125,1
+71,2023-06-17,10066.36,Electronics,Digital Wallet,Kathmandu,69,1
+114,2023-07-27,38009.94,Electronics,Credit Card,Pokhara,157,1
+167,2024-04-13,44435.55,Stationery,Digital Wallet,Kathmandu,155,1
+161,2024-02-08,30769.49,Home Appliances,Cash,Biratnagar,27,1
+234,2023-02-13,43950.11,Groceries,Digital Wallet,Butwal,10,1
+265,2023-02-20,9897.59,Stationery,Digital Wallet,Bhaktapur,73,1
+86,2024-03-08,15073.78,Electronics,Credit Card,Pokhara,165,1
+47,2024-05-27,6101.99,Home Appliances,Credit Card,Pokhara,105,1
+231,2023-01-26,9354.49,Home Appliances,Credit Card,Pokhara,23,1
+166,2023-06-17,36059.55,Electronics,Cash,Kathmandu,180,1
+186,2023-03-29,26428.96,Stationery,Credit Card,Pokhara,140,1
+23,2023-06-24,45656.51,Home Appliances,Credit Card,Lalitpur,37,0
+27,2024-03-05,15749.08,Stationery,Bank Transfer,Butwal,46,0
+68,2023-07-27,674.88,Clothing,Cash,Pokhara,127,1
+279,2023-01-06,30595.2,Stationery,Credit Card,Lalitpur,150,1
+233,2024-02-24,22372.83,Home Appliances,Cash,Lalitpur,140,1
+286,2023-08-01,2921.48,Groceries,Cash,Butwal,89,0
+75,2023-02-03,33516.33,Home Appliances,Bank Transfer,Bhaktapur,22,0
+56,2024-03-02,49689.89,Groceries,Bank Transfer,Biratnagar,169,0
+234,2024-01-04,46608.25,Electronics,Bank Transfer,Bhaktapur,94,1
+35,2024-03-13,42243.83,Electronics,Bank Transfer,Pokhara,34,0
+141,2023-12-04,26589.11,Home Appliances,Credit Card,Butwal,53,0
+56,2024-06-25,49365.87,Stationery,Bank Transfer,Pokhara,155,1
+133,2024-06-22,28969.56,Home Appliances,Bank Transfer,Lalitpur,157,1
+267,2024-05-24,24878.97,Groceries,Credit Card,Butwal,74,0
+1,2023-05-02,1687.35,Electronics,Credit Card,Biratnagar,106,1
+24,2023-12-08,17807.68,Groceries,Cash,Butwal,51,1
+131,2023-03-11,15734.74,Home Appliances,Bank Transfer,Kathmandu,29,1
+175,2024-02-10,36357.63,Home Appliances,Cash,Lalitpur,49,1
+174,2024-05-05,45850.07,Electronics,Credit Card,Pokhara,39,1
+275,2023-12-10,23392.27,Stationery,Cash,Biratnagar,76,1
+285,2024-07-02,1426.56,Home Appliances,Bank Transfer,Bhaktapur,16,0
+144,2023-02-01,17288.04,Stationery,Credit Card,Biratnagar,155,1
+96,2023-04-30,43297.39,Clothing,Bank Transfer,Butwal,8,1
+212,2023-03-30,25104.19,Groceries,Bank Transfer,Pokhara,77,0
+269,2023-11-06,9163.13,Clothing,Cash,Lalitpur,23,1
+260,2023-01-26,40051.75,Home Appliances,Credit Card,Lalitpur,87,1
+269,2023-11-14,38888.89,Groceries,Cash,Biratnagar,173,0
+106,2023-02-07,23238.74,Home Appliances,Cash,Kathmandu,79,0
+45,2023-12-08,23610.36,Electronics,Cash,Biratnagar,168,1
+12,2023-11-16,32123.12,Groceries,Bank Transfer,Lalitpur,49,1
+142,2024-06-29,16297.91,Stationery,Cash,Bhaktapur,38,0
+141,2023-04-28,1255.21,Home Appliances,Cash,Lalitpur,138,1
+282,2023-11-23,13917.08,Clothing,Credit Card,Lalitpur,18,1
+174,2024-07-07,22460.56,Groceries,Cash,Pokhara,172,0
+55,2024-01-28,3163.09,Stationery,Digital Wallet,Lalitpur,180,1
+183,2023-11-16,16950.44,Groceries,Cash,Pokhara,145,0
+48,2024-04-24,5314.52,Clothing,Digital Wallet,Pokhara,59,0
+74,2023-09-22,45686.65,Stationery,Credit Card,Butwal,170,1
+167,2024-04-09,24631.58,Electronics,Digital Wallet,Kathmandu,89,1
+237,2023-06-24,14471.74,Clothing,Credit Card,Biratnagar,26,1
+55,2023-11-30,28029.42,Electronics,Bank Transfer,Biratnagar,118,1
+212,2023-09-02,31233.3,Home Appliances,Credit Card,Pokhara,98,0
+175,2023-08-02,40788.83,Home Appliances,Digital Wallet,Pokhara,145,1
+279,2023-08-30,9067.73,Electronics,Digital Wallet,Kathmandu,151,1
+167,2024-07-22,5333.87,Stationery,Credit Card,Bhaktapur,103,0
+56,2024-01-24,16706.71,Electronics,Cash,Lalitpur,35,0
+76,2023-06-02,22922.23,Clothing,Digital Wallet,Biratnagar,147,1
+101,2023-07-30,34235.08,Clothing,Bank Transfer,Biratnagar,173,1
+223,2023-12-19,49519.32,Home Appliances,Cash,Biratnagar,130,1
+66,2023-10-29,3589.32,Home Appliances,Cash,Kathmandu,180,1
+57,2023-10-16,43351.14,Groceries,Digital Wallet,Butwal,151,1
+163,2024-01-27,20598.62,Stationery,Credit Card,Butwal,44,1
+72,2023-07-12,27993.37,Clothing,Digital Wallet,Lalitpur,73,0
+69,2023-01-12,4051.43,Electronics,Credit Card,Butwal,124,1
+70,2023-03-28,7292.4,Stationery,Digital Wallet,Butwal,154,1
+93,2024-04-10,25716.04,Home Appliances,Digital Wallet,Pokhara,90,0
+96,2024-03-10,30426.38,Home Appliances,Digital Wallet,Butwal,60,1
+211,2024-07-13,29029.44,Electronics,Cash,Biratnagar,123,1
+58,2024-05-08,48106.02,Electronics,Credit Card,Butwal,134,1
+239,2024-06-13,4372.61,Home Appliances,Cash,Lalitpur,120,0
+277,2023-11-16,30845.44,Clothing,Cash,Pokhara,116,1
+294,2023-12-06,21340.3,Clothing,Bank Transfer,Lalitpur,9,1
+289,2023-09-24,3540.18,Stationery,Credit Card,Biratnagar,13,1
+14,2023-10-21,24495.63,Groceries,Cash,Bhaktapur,64,0
+144,2023-10-09,42963.99,Electronics,Cash,Biratnagar,44,0
+229,2024-01-14,40488.11,Clothing,Credit Card,Pokhara,46,0
+176,2023-03-28,48383.61,Home Appliances,Credit Card,Pokhara,105,1
+122,2024-03-26,36436.96,Groceries,Credit Card,Biratnagar,88,0
+136,2023-04-29,3099.9,Stationery,Digital Wallet,Pokhara,77,1
+273,2023-08-28,19300.14,Stationery,Digital Wallet,Bhaktapur,37,1
+7,2023-10-23,46397.52,Stationery,Digital Wallet,Butwal,80,0
+50,2024-06-28,32052.5,Stationery,Bank Transfer,Bhaktapur,69,1
+51,2023-09-19,32889.99,Stationery,Digital Wallet,Butwal,61,0
+267,2023-12-12,34047.05,Groceries,Bank Transfer,Biratnagar,2,0
+35,2023-01-13,20856.81,Home Appliances,Cash,Butwal,114,1
+113,2023-10-18,12968.86,Electronics,Cash,Biratnagar,23,0
+112,2023-05-05,35549.72,Electronics,Cash,Biratnagar,33,1
+290,2023-07-09,44852.08,Groceries,Bank Transfer,Bhaktapur,119,0
+233,2023-10-11,38583.28,Clothing,Bank Transfer,Lalitpur,18,1
+32,2024-01-27,19735.23,Electronics,Bank Transfer,Bhaktapur,45,1
+36,2024-05-18,48981.39,Groceries,Digital Wallet,Lalitpur,165,1
+56,2023-05-28,27261.29,Stationery,Credit Card,Biratnagar,164,0
+227,2023-09-23,5612.71,Electronics,Cash,Biratnagar,64,1
+10,2024-05-24,7868.29,Electronics,Cash,Butwal,99,1
+78,2023-12-04,45278.57,Home Appliances,Cash,Biratnagar,125,1
+224,2024-02-18,42280.43,Electronics,Credit Card,Kathmandu,98,1
+63,2024-08-03,26997.55,Clothing,Bank Transfer,Butwal,77,1
+29,2023-04-03,18585.09,Clothing,Cash,Pokhara,74,0
+91,2024-07-21,2446.89,Stationery,Credit Card,Bhaktapur,178,1
+55,2024-01-03,24581.93,Stationery,Credit Card,Lalitpur,9,0
+13,2023-09-02,24717.01,Electronics,Bank Transfer,Pokhara,136,1
+9,2023-02-07,17294.61,Clothing,Cash,Pokhara,30,0
+268,2024-04-14,47034.44,Home Appliances,Credit Card,Butwal,148,0
+37,2023-02-07,36905.26,Stationery,Cash,Pokhara,158,0
+125,2023-05-14,1211.08,Electronics,Bank Transfer,Kathmandu,116,0
+33,2023-04-19,6151.89,Home Appliances,Credit Card,Kathmandu,51,1
+173,2024-02-16,16549.63,Home Appliances,Credit Card,Bhaktapur,54,0
+89,2023-12-10,3629.48,Clothing,Credit Card,Pokhara,43,1
+284,2023-06-18,22213.73,Home Appliances,Cash,Lalitpur,25,1
+81,2023-01-17,44041.53,Electronics,Cash,Kathmandu,45,0
+146,2024-03-02,34828.42,Stationery,Credit Card,Lalitpur,36,1
+268,2024-04-06,20895.55,Groceries,Cash,Biratnagar,46,1
+46,2023-11-05,17718.75,Electronics,Credit Card,Lalitpur,30,0
+186,2024-07-06,25623.27,Stationery,Credit Card,Bhaktapur,13,0
+58,2023-06-02,34419.57,Stationery,Digital Wallet,Lalitpur,40,0
+28,2024-01-08,14610.69,Stationery,Bank Transfer,Bhaktapur,157,1
+23,2023-04-17,37150.64,Home Appliances,Credit Card,Lalitpur,7,1
+264,2023-04-29,4007.55,Groceries,Digital Wallet,Biratnagar,148,1
+215,2023-07-23,37480.79,Clothing,Credit Card,Kathmandu,83,0
+51,2023-08-31,37018.52,Groceries,Digital Wallet,Lalitpur,18,1
+300,2024-05-11,3189.8,Stationery,Credit Card,Lalitpur,156,1
+92,2024-02-01,18987.51,Stationery,Credit Card,Butwal,91,1
+104,2023-12-10,6796.98,Home Appliances,Cash,Bhaktapur,34,0
+239,2024-04-14,21202.08,Clothing,Credit Card,Bhaktapur,154,0
+88,2024-07-20,42822.7,Electronics,Digital Wallet,Biratnagar,125,0
+243,2024-04-18,14318.96,Stationery,Credit Card,Lalitpur,83,1
+297,2023-08-16,44645.22,Home Appliances,Credit Card,Biratnagar,1,1
+23,2023-02-11,49568.04,Home Appliances,Cash,Pokhara,135,1
+246,2023-04-11,22895.85,Groceries,Cash,Biratnagar,3,1
+112,2023-05-16,18241.08,Groceries,Cash,Kathmandu,122,1
+83,2024-04-15,42967.14,Home Appliances,Cash,Pokhara,118,0
+208,2023-07-09,39598.01,Clothing,Digital Wallet,Butwal,162,0
+37,2024-01-30,44725.0,Clothing,Cash,Bhaktapur,109,1
+278,2023-08-01,39490.75,Electronics,Bank Transfer,Butwal,14,1
+27,2023-04-24,19456.27,Stationery,Cash,Bhaktapur,93,0
+287,2023-03-10,28257.53,Groceries,Credit Card,Bhaktapur,61,0
+245,2023-08-03,37782.09,Groceries,Bank Transfer,Bhaktapur,68,1
+142,2023-02-25,3636.77,Clothing,Digital Wallet,Pokhara,128,0
+241,2024-06-28,34076.26,Home Appliances,Bank Transfer,Pokhara,158,1
+34,2023-07-12,44649.21,Stationery,Cash,Kathmandu,100,0
+148,2023-03-20,5913.56,Clothing,Cash,Butwal,37,1
+78,2023-07-29,26274.04,Electronics,Bank Transfer,Pokhara,174,0
+243,2023-12-22,21296.43,Electronics,Bank Transfer,Lalitpur,16,0
+119,2024-06-16,32411.27,Stationery,Bank Transfer,Butwal,165,1
+249,2024-06-26,42174.44,Stationery,Digital Wallet,Bhaktapur,145,0
+157,2023-06-25,39568.75,Groceries,Digital Wallet,Bhaktapur,73,0
+76,2023-12-28,14576.91,Groceries,Credit Card,Butwal,137,1
+94,2023-06-29,42046.92,Groceries,Credit Card,Lalitpur,29,0
+163,2023-05-10,22323.99,Clothing,Credit Card,Lalitpur,143,0
+163,2023-12-19,7823.24,Stationery,Credit Card,Biratnagar,77,0
+13,2024-02-19,46587.91,Groceries,Digital Wallet,Bhaktapur,39,0
+280,2024-06-03,16898.39,Clothing,Digital Wallet,Bhaktapur,146,0
+290,2024-03-28,17264.88,Electronics,Digital Wallet,Kathmandu,35,0
+158,2023-01-26,20380.68,Groceries,Digital Wallet,Bhaktapur,23,1
+29,2023-07-19,29379.86,Groceries,Bank Transfer,Lalitpur,5,0
+276,2024-04-01,34014.64,Electronics,Digital Wallet,Lalitpur,125,1
+262,2023-02-27,45468.12,Clothing,Digital Wallet,Lalitpur,109,1
+198,2024-01-17,1103.44,Clothing,Bank Transfer,Bhaktapur,114,0
+111,2024-03-30,37205.62,Stationery,Digital Wallet,Bhaktapur,41,1
+213,2023-05-23,41857.82,Home Appliances,Cash,Lalitpur,53,1
+244,2024-06-21,49338.6,Electronics,Digital Wallet,Kathmandu,1,1
+140,2024-02-29,9157.2,Stationery,Credit Card,Lalitpur,47,1
+149,2024-07-21,24783.99,Clothing,Bank Transfer,Pokhara,143,1
+115,2023-01-28,39665.37,Groceries,Bank Transfer,Bhaktapur,163,1
+64,2023-10-22,21149.26,Stationery,Credit Card,Kathmandu,30,1
+253,2023-03-10,30145.12,Clothing,Digital Wallet,Biratnagar,111,1
+244,2023-05-03,18973.51,Home Appliances,Cash,Bhaktapur,41,0
+75,2023-11-24,23321.68,Groceries,Bank Transfer,Lalitpur,13,1
+185,2024-03-05,31994.23,Clothing,Cash,Bhaktapur,74,0
+264,2023-07-18,38438.9,Groceries,Cash,Biratnagar,42,1
+162,2023-11-05,13937.22,Clothing,Cash,Biratnagar,148,1
+74,2023-01-14,7279.0,Clothing,Bank Transfer,Pokhara,105,1
+84,2023-04-15,11284.87,Home Appliances,Credit Card,Lalitpur,143,0
+214,2024-04-16,45843.54,Electronics,Credit Card,Kathmandu,122,1
+160,2024-01-07,7381.19,Stationery,Bank Transfer,Lalitpur,77,0
+61,2023-08-16,6871.37,Groceries,Credit Card,Bhaktapur,32,0
+67,2023-03-22,21527.85,Electronics,Cash,Kathmandu,123,1
+22,2023-07-21,5836.96,Home Appliances,Cash,Pokhara,30,1
+23,2023-03-09,15431.47,Electronics,Cash,Kathmandu,154,0
+103,2023-07-09,33694.73,Electronics,Cash,Lalitpur,71,1
+181,2023-06-14,42829.34,Home Appliances,Credit Card,Biratnagar,145,0
+51,2023-01-15,26677.52,Groceries,Bank Transfer,Lalitpur,137,0
+51,2023-08-08,46063.62,Stationery,Bank Transfer,Butwal,150,0
+226,2023-04-20,9452.0,Clothing,Digital Wallet,Pokhara,54,0
+209,2023-04-26,38189.77,Clothing,Cash,Pokhara,28,0
+254,2024-01-05,35384.18,Home Appliances,Cash,Kathmandu,83,1
+60,2024-01-30,14538.77,Home Appliances,Bank Transfer,Butwal,113,0
+284,2024-02-22,14884.17,Stationery,Credit Card,Kathmandu,121,1
+92,2023-01-14,49936.8,Stationery,Cash,Pokhara,112,0
+62,2023-05-27,20043.17,Home Appliances,Cash,Butwal,43,0
+187,2023-07-23,17262.27,Home Appliances,Digital Wallet,Kathmandu,59,1
+256,2023-10-13,38358.44,Home Appliances,Bank Transfer,Butwal,102,1
+244,2024-02-19,49382.4,Home Appliances,Bank Transfer,Lalitpur,116,0
+63,2023-09-14,24722.4,Groceries,Credit Card,Kathmandu,25,0
+35,2024-05-25,34066.32,Groceries,Digital Wallet,Biratnagar,173,1
+79,2023-11-07,31287.35,Electronics,Cash,Butwal,133,1
+239,2023-07-26,15031.37,Stationery,Digital Wallet,Biratnagar,66,1
+277,2024-07-13,1374.68,Electronics,Digital Wallet,Kathmandu,98,1
+162,2024-01-21,22406.53,Electronics,Cash,Lalitpur,142,1
+85,2024-05-18,21818.72,Clothing,Digital Wallet,Pokhara,28,1
+284,2024-07-06,28824.41,Stationery,Credit Card,Biratnagar,14,1
+135,2024-05-21,29756.73,Stationery,Bank Transfer,Bhaktapur,82,0
+15,2023-02-16,6845.8,Clothing,Bank Transfer,Butwal,149,0
+175,2024-01-25,5318.83,Clothing,Bank Transfer,Pokhara,89,0
+126,2023-09-11,12113.79,Clothing,Cash,Butwal,16,1
+59,2023-12-12,8904.07,Home Appliances,Bank Transfer,Kathmandu,117,1
+291,2024-06-11,45119.79,Clothing,Cash,Butwal,120,0
+163,2024-01-22,28732.5,Clothing,Cash,Pokhara,25,0
+173,2024-05-23,25387.04,Clothing,Credit Card,Biratnagar,76,1
+224,2023-07-26,25099.11,Electronics,Credit Card,Bhaktapur,67,0
+153,2024-02-16,40327.85,Home Appliances,Cash,Butwal,148,0
+173,2023-10-07,3829.85,Home Appliances,Digital Wallet,Pokhara,53,1
+40,2023-11-06,25479.66,Clothing,Digital Wallet,Butwal,138,1
+103,2024-02-29,20413.9,Home Appliances,Digital Wallet,Butwal,140,0
+10,2024-06-12,43204.14,Home Appliances,Digital Wallet,Lalitpur,169,1
+138,2024-06-29,40542.21,Stationery,Cash,Biratnagar,51,1
+237,2023-06-01,12398.51,Clothing,Digital Wallet,Pokhara,81,0
+105,2024-02-27,13713.27,Clothing,Credit Card,Bhaktapur,175,0
+208,2023-09-02,6121.15,Groceries,Cash,Lalitpur,79,1
+249,2024-07-27,49569.01,Stationery,Cash,Lalitpur,40,1
+70,2023-01-30,13290.64,Clothing,Credit Card,Butwal,10,1
+11,2023-02-26,43049.41,Electronics,Bank Transfer,Biratnagar,76,0
+209,2024-01-08,33747.77,Electronics,Digital Wallet,Butwal,35,0
+58,2024-05-27,46680.3,Home Appliances,Bank Transfer,Pokhara,23,0
+63,2023-11-17,16799.65,Home Appliances,Digital Wallet,Butwal,60,1
+112,2023-05-28,5787.29,Groceries,Bank Transfer,Pokhara,104,1
+29,2024-05-17,26906.76,Electronics,Bank Transfer,Biratnagar,108,1
+127,2023-10-12,44031.96,Groceries,Bank Transfer,Pokhara,94,1
+11,2023-02-05,42152.91,Electronics,Credit Card,Bhaktapur,141,1
+159,2024-01-07,45206.28,Electronics,Credit Card,Pokhara,99,0
+202,2023-09-19,15393.96,Groceries,Bank Transfer,Lalitpur,41,1
+163,2024-02-21,39571.21,Clothing,Cash,Pokhara,120,1
+171,2024-03-08,43899.68,Electronics,Credit Card,Butwal,66,0
+181,2024-03-06,30304.74,Home Appliances,Bank Transfer,Pokhara,177,0
+27,2023-07-08,31692.74,Groceries,Cash,Pokhara,51,1
+161,2023-03-26,5986.0,Groceries,Credit Card,Biratnagar,175,1
+164,2024-04-07,24179.09,Groceries,Bank Transfer,Lalitpur,175,1
+145,2023-07-23,4677.75,Clothing,Credit Card,Pokhara,96,0
+11,2023-01-24,46194.06,Home Appliances,Credit Card,Kathmandu,118,0
+135,2023-06-22,2964.26,Home Appliances,Digital Wallet,Biratnagar,66,0
+46,2024-01-12,8921.08,Home Appliances,Cash,Kathmandu,134,1
+233,2024-05-21,6366.36,Groceries,Credit Card,Bhaktapur,73,1
+196,2023-05-14,21849.78,Groceries,Credit Card,Bhaktapur,173,0
+215,2023-07-04,20721.94,Groceries,Cash,Bhaktapur,67,0
+231,2023-09-12,18797.07,Stationery,Cash,Kathmandu,120,0
+166,2024-02-12,34499.2,Stationery,Digital Wallet,Butwal,152,1
+38,2023-04-08,28071.5,Electronics,Bank Transfer,Lalitpur,120,1
+24,2023-01-06,13056.02,Home Appliances,Digital Wallet,Bhaktapur,101,1
+68,2024-07-26,2535.69,Groceries,Bank Transfer,Lalitpur,128,1
+174,2024-04-24,7030.02,Clothing,Digital Wallet,Lalitpur,66,0
+161,2023-02-15,48936.57,Stationery,Bank Transfer,Butwal,92,1
+145,2023-09-27,30840.11,Clothing,Bank Transfer,Pokhara,42,1
+252,2023-06-04,28005.9,Stationery,Cash,Lalitpur,38,0
+118,2023-07-07,2275.18,Clothing,Credit Card,Butwal,119,1
+60,2024-05-21,2519.19,Clothing,Digital Wallet,Pokhara,126,0
+76,2023-05-07,17805.41,Groceries,Bank Transfer,Lalitpur,43,1
+289,2023-08-06,29385.6,Electronics,Credit Card,Pokhara,19,0
+256,2023-04-07,44424.7,Electronics,Bank Transfer,Butwal,174,0
+202,2024-01-18,29721.76,Electronics,Bank Transfer,Lalitpur,7,0
+236,2024-05-06,22975.75,Clothing,Cash,Bhaktapur,11,1
+167,2023-05-13,10962.66,Electronics,Bank Transfer,Bhaktapur,14,0
+281,2024-01-26,5081.28,Clothing,Credit Card,Lalitpur,102,0
+11,2023-08-02,8565.56,Stationery,Bank Transfer,Butwal,167,0
+62,2023-11-02,24796.83,Stationery,Bank Transfer,Butwal,154,0
+184,2023-04-09,41686.62,Home Appliances,Credit Card,Pokhara,114,1
+244,2023-10-02,28371.33,Stationery,Cash,Pokhara,94,0
+223,2024-03-12,5100.9,Home Appliances,Bank Transfer,Pokhara,173,0
+80,2024-05-22,26600.3,Home Appliances,Cash,Bhaktapur,119,1
+41,2024-05-04,15369.47,Groceries,Bank Transfer,Lalitpur,133,1
+152,2023-02-18,27774.22,Electronics,Cash,Biratnagar,108,1
+49,2024-04-20,33212.34,Home Appliances,Bank Transfer,Bhaktapur,65,0
+258,2023-01-17,6139.81,Stationery,Credit Card,Lalitpur,100,0
+43,2024-03-02,43899.39,Clothing,Bank Transfer,Biratnagar,116,1
+136,2023-12-16,48352.62,Groceries,Credit Card,Lalitpur,20,1
+55,2024-03-20,26951.61,Electronics,Digital Wallet,Kathmandu,3,0
+245,2024-04-16,34744.41,Home Appliances,Digital Wallet,Bhaktapur,158,1
+203,2023-11-06,4837.94,Groceries,Cash,Lalitpur,28,0
+97,2023-01-28,10856.86,Groceries,Credit Card,Pokhara,160,0
+45,2023-11-05,38601.2,Groceries,Digital Wallet,Pokhara,5,0
+86,2023-06-06,37069.67,Stationery,Digital Wallet,Pokhara,5,1
+300,2023-09-06,10466.25,Home Appliances,Digital Wallet,Kathmandu,85,0
+53,2024-03-18,48984.6,Stationery,Bank Transfer,Kathmandu,124,1
+249,2024-06-09,29756.44,Home Appliances,Digital Wallet,Lalitpur,15,0
+217,2023-11-20,27886.16,Clothing,Digital Wallet,Pokhara,29,1
+178,2024-04-04,35026.96,Electronics,Credit Card,Bhaktapur,49,1
+177,2024-03-24,11989.1,Groceries,Bank Transfer,Biratnagar,168,1
+68,2023-10-28,36288.25,Stationery,Digital Wallet,Butwal,167,1
+242,2023-06-15,31281.2,Clothing,Cash,Butwal,123,0
+89,2023-07-24,8237.55,Stationery,Cash,Pokhara,126,1
+121,2023-08-03,28063.11,Electronics,Bank Transfer,Bhaktapur,91,0
+90,2024-05-30,2082.52,Electronics,Bank Transfer,Pokhara,29,0
+62,2024-07-29,11592.73,Clothing,Bank Transfer,Bhaktapur,11,1
+78,2024-06-11,30412.33,Electronics,Cash,Pokhara,117,0
+55,2023-04-15,41268.71,Electronics,Cash,Lalitpur,161,0
+106,2024-01-06,8273.11,Clothing,Digital Wallet,Biratnagar,127,0
+79,2024-01-08,17063.07,Groceries,Cash,Lalitpur,112,1
+4,2023-09-09,41823.26,Stationery,Bank Transfer,Bhaktapur,129,0
+44,2023-09-30,18935.6,Stationery,Bank Transfer,Butwal,170,0
+78,2024-06-26,21375.25,Groceries,Credit Card,Pokhara,105,1
+235,2024-06-12,39833.06,Clothing,Cash,Pokhara,37,0
+265,2023-03-13,4696.52,Clothing,Digital Wallet,Lalitpur,111,0
+202,2023-02-07,33178.72,Groceries,Cash,Butwal,169,1
+215,2024-02-16,44346.25,Home Appliances,Bank Transfer,Butwal,80,1
